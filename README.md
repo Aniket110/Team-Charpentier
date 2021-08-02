@@ -4,8 +4,8 @@ Hackbio Internship 2021
 Team Lead: Ishita Shrestha
 Total Members: 23
 
-Task: 
-The Spreadsheet project
+Task: The Spreadsheet project
+
 • Each team should create a GitHub repo. 
 • Add a comprehensive readme.md with essential information about the internship, the team, the contributors, pictures if possible using markdown.
 • Each team will work on a minimum of  7 different programming languages
