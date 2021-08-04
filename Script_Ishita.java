@@ -12,11 +12,11 @@ public class Main
     }
 	
 	public static void main(String[] args) {
-		String Name = "Vinay Joshi";
-		String Email = "viyj2000@gmail.com";
-		String SlackUsername = "@Viny-joshi";
+		String Name = "Ishita Shreshtha";
+		String Email = "31ishita12@gmail.com";
+		String SlackUsername = "@Ishita";
 		String Biostack = "Fill here";
-		String Twitter = "@viny_joshi";
+		String Twitter = "@IShreshtha";
 		int Distance = hammingDist (SlackUsername, Twitter);
 		
 		System.out.println(Name+","+Email+","+SlackUsername+","+Biostack+","+Twitter+","+Distance);
