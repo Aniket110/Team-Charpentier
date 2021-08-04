@@ -14,7 +14,7 @@ public class Main
 	public static void main(String[] args) {
 		String Name = "Ishita Shreshtha";
 		String Email = "31ishita12@gmail.com";
-		String SlackUsername = "@IShreshtha";
+		String SlackUsername = "@Ishreshtha";
 		String Biostack = "Fill here";
 		String Twitter = "@IShreshtha";
 		int Distance = hammingDist (SlackUsername, Twitter);
