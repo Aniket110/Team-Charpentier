@@ -18,4 +18,4 @@ Twitter="@Harshiibc"
 
 distance = hammingDist(slackusername, Twitter)
     
-print('{},{},{},{},{},{}'.format(name,email,slackusername,biostack,Twitter,distance), endl="")
+print('{},{},{},{},{},{}'.format(name,email,slackusername,biostack,Twitter,distance))
