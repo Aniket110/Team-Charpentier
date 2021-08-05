@@ -1,4 +1,4 @@
-#1/usr/bin/Rscript
+#!/usr/bin/Rscript
 
 name <- "Vinay Joshi"
 email <- "viyj2000@gmail.com"
