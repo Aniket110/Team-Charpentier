@@ -1,4 +1,4 @@
-#!/bin/java --source 16
+#!/usr/bin/java --source 16
 
 public class Main
 {
