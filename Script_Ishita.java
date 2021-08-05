@@ -1,3 +1,5 @@
+#!/usrbin/java
+
 public class Main
 {
     static int hammingDist(String str1, String str2){
