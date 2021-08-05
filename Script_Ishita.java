@@ -1,6 +1,4 @@
-#!/bin/sh
-java -Dorg.patrodyne.scripting.java.classpath="." \
-  -jar ~/lib/patrodyne-scripting-javabang-X.X.X.jar $*
+#!/bin/java --source 16
 
 public class Main
 {
