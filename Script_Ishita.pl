@@ -1,3 +1,5 @@
+#!/usr/bin/perl
+
 $name = 'Ishita Shreshtha';
 $email = '31ishita12@gmail.com';
 $slack = '@IshreshthA';
