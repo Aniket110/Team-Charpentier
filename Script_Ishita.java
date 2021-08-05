@@ -1,3 +1,4 @@
+#!/bin/bash
 Javac Main.java
 
 public class Main
