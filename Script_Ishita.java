@@ -1,5 +1,4 @@
-#!/bin/bash
-Javac Main.java
+#!/usr/bin/java
 
 public class Main
 {
