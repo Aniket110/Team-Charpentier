@@ -1,3 +1,5 @@
+#!/usr/bin/gcc
+
 #include <iostream>
 #include <cstring>
 
