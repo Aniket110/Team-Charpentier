@@ -1,6 +1,4 @@
 #!/usr/bin/node
-<html><body>
-<script>
 
 function hammingDist(str1, str2)
 {
@@ -20,7 +18,3 @@ function hammingDist(str1, str2)
     var Twitter = "@viny-joshi"
 
     document.write(Name +',' + Email +','+ Slackusername +','+ Biostack + ","+ Twitter+ ","+ hammingDist (Slackusername, Twitter));
-
-</script>
-</body>
-</html>
