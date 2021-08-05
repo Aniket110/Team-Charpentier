@@ -17,4 +17,4 @@ function hammingDist(str1, str2)
     var Biostack = "Something";
     var Twitter = "@viny-joshi";
 
-    document.write(Name +',' + Email +','+ Slackusername +','+ Biostack + ","+ Twitter+ ","+ hammingDist (Slackusername, Twitter));
+    console.log(Name +',' + Email +','+ Slackusername +','+ Biostack + ","+ Twitter+ ","+ hammingDist (Slackusername, Twitter));
