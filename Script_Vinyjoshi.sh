@@ -14,4 +14,4 @@ for (( i=0; i<${#Slackusername}; i++ )); do
   fi
 done
 
-echo -e "$Name,$Email,$Slackusername,$Biostack,$Twitter,$distance "
+echo "$Name,$Email,$Slackusername,$Biostack,$Twitter,$distance "
