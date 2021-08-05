@@ -1,4 +1,4 @@
-#!/usr/bin/java
+Javac Main.java
 
 public class Main
 {
