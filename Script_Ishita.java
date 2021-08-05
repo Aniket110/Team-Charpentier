@@ -1,4 +1,4 @@
-#!/usrbin/java
+#!/usr/bin/java
 
 public class Main
 {
