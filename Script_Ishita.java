@@ -1,6 +1,4 @@
-#!/usr/bin/java --source 16
-
-public class Main
+class Main
 {
     static int hammingDist(String str1, String str2){
         
