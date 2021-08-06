@@ -12,9 +12,9 @@ function hammingDist(str1, str2)
     return count;
 }
     var Name = "Aniket";
-    var Email = "aniket@something.com";
-    var Slackusername = "@Viny_joshi";
-    var Biostack = "Something";
-    var Twitter = "@viny-joshi";
+    var Email = "aabagate1120@gmail.com";
+    var Slackusername = "@Aniket";
+    var Biostack = "Vaccine informatics";
+    var Twitter = "@Aniket";
 
     console.log(Name +',' + Email +','+ Slackusername +','+ Biostack + ","+ Twitter+ ","+ hammingDist (Slackusername, Twitter));
